@@ -1,0 +1,8 @@
+@article{clark2022canine,
+  title={Canine: Pre-training an Efficient Tokenization-free Encoder for Language Representation},
+  author={Clark, Jonathan H and Garrette, Dan and Turc, Iulia and Wieting, John},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={10},
+  pages={73--91},
+  year={2022}
+}
