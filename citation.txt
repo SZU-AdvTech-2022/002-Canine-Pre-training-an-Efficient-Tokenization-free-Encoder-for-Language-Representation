@@ -1,0 +1,8 @@
+@article{REPO-002,
+    author = "Clark, Jonathan H and Garrette, Dan and Turc, Iulia and Wieting, John",
+    journal = "Transactions of the Association for Computational Linguistics",
+    pages = "73--91",
+    title = "{Canine: Pre-training an Efficient Tokenization-free Encoder for Language Representation}",
+    volume = "10",
+    year = "2022"
+}
